@@ -1,5 +1,5 @@
 ## React/Redux Anatomy 
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Ventura Travel</span> IT Training</span>
+##### <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">Ventura Travel</span> IT Training</span>
 <span style="font-size:0.6em; color:gray">By Genesis Guerrero</span>
 ---
 
