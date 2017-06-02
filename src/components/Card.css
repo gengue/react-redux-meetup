@@ -1,0 +1,25 @@
+
+.Card {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  width: 400px;
+  padding: 10px;
+  margin: 10px;
+  text-align: justify;
+  display: inline-block;
+}
+
+.Card-body  {
+    display: flex;
+}
+.Card-body img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    display: inline-block;
+}
+
+.Card-body .Card-content {
+    margin-left: 10px;
+    display: inline-block;
+}

@@ -1,0 +1,18 @@
+
+.Filterbar {
+    text-align: left;
+    margin: 20px 20px 20px 70px;
+}
+
+.Filterbar label {
+    color: green;
+    margin-right: 15px;
+}
+
+.Filterbar input {
+    outline: 0;
+    font-size: 20px;
+    padding: 8px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
