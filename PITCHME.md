@@ -21,7 +21,9 @@ Redux is a predictable state container for JavaScript apps
 
 #### Show me code!!
 
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">https://stephengrider.github.io/JSPlaygrounds/</a> Ok, go to playground.</span>
+<span style="font-size:0.6em; color:gray">Ok, go to playground. 
+<a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">https://stephengrider.github.io/JSPlaygrounds/</a> 
+</span>
 
 +++
 #### It's a pieace of cake
