@@ -8,7 +8,7 @@
 Redux is a predictable state container for JavaScript apps
 ---
 
-## Core Concepts
+#### Core Concepts
 
 ![Image-Absolute](https://camo.githubusercontent.com/af8803571294fe373a54d039be8f9709f15a2ad4/687474703a2f2f6d616b6569746f70656e2e636f6d2f7374617469632f696d616765732f72656475785f666c6f7763686172742e706e67)
 
