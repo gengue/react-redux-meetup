@@ -40,7 +40,9 @@ I want more code!
 +++
 #### React + Redux 
 
-list...
+* Presentational and Cointainer Components
+* Async actions (Async actions creators with redux-thunk) 
+* React-router
 
 ---
 
