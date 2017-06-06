@@ -35,7 +35,9 @@ Redux is a predictable state container for JavaScript apps
 
 +++
 #### It's a pieace of cake
-I want more code!
+
+![Image-Absolute](https://cdn.meme.am/instances/66260614.jpg)
+Show me more code!
 
 +++
 #### React + Redux 
@@ -53,9 +55,8 @@ Go to https://github.com/gengue/react-redux-meetup
 +++
 
 #### Exercise 
-
 You turn!
-
+![Image-Absolute](http://68.media.tumblr.com/012ed8443cb7bafede954303adf33525/tumblr_mjz0xpeoNz1s36cs2o1_r1_400.gif)
 ---
 ## The End.
 ## Thanks <span style="color:#e49436; text-transform: none">; )</span> 
