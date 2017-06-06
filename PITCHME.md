@@ -27,7 +27,8 @@ Redux is a predictable state container for JavaScript apps
 
 ---
 
-#### Show me code!!
+#####
+![Image-Absolute](https://i.imgflip.com/1qdcq2.jpg)
 
 <span style="font-size:0.6em; color:gray">Ok, go to playground. 
 <a href="https://stephengrider.github.io/JSPlaygrounds/" target="_blank">https://stephengrider.github.io/JSPlaygrounds/</a> 
@@ -37,7 +38,6 @@ Redux is a predictable state container for JavaScript apps
 #### It's a pieace of cake
 
 ![Image-Absolute](https://cdn.meme.am/instances/66260614.jpg)
-Show me more code!
 
 +++
 #### React + Redux 
@@ -54,8 +54,7 @@ Go to https://github.com/gengue/react-redux-meetup
 
 +++
 
-#### Exercise 
-You turn!
+#### You turn! 
 ![Image-Absolute](http://68.media.tumblr.com/012ed8443cb7bafede954303adf33525/tumblr_mjz0xpeoNz1s36cs2o1_r1_400.gif)
 ---
 ## The End.
